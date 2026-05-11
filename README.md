@@ -1,6 +1,6 @@
 # Pseudomonas_comparative_genomics
 ## Repository with results for bioinformatic analysis of a Pseudomonas spp. collection at the Taylor Lab (Ohio State)
-- Genome QC metrics
+- Genome assembly metrics
 - Species assignment
 - Gene annotations
 - Phylogenetic and phylogenomic analysis
