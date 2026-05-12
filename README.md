@@ -10,4 +10,4 @@
   - Plant growth promoting traits
 - Genomic evaluation of Tn5 generated mutant library for Pseudomonas 15G2
   
-## Taylor Lab Pseudomonas genomes are available in PRJNA342848
+## Taylor Lab Pseudomonas genomes are available in NCBI Bioproject PRJNA342848
